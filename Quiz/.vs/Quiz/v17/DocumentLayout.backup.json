@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|c:\\users\\aysun\\onedrive\\desktop\\quizlist\\quiz\\quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|c:\\users\\aysun\\onedrive\\desktop\\quizlist\\quiz\\quiz\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|c:\\users\\aysun\\onedrive\\desktop\\quizlist\\quiz\\quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|solutionrelative:quiz\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|c:\\users\\aysun\\onedrive\\desktop\\quizlist\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE52ED78-61D7-4D7B-B340-841BB714EE92}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\BaseEntity.cs*",
+              "RelativeToolTip": "Quiz\\Model\\BaseEntity.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:40:59.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\Question.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\Question.cs*",
+              "RelativeToolTip": "Quiz\\Model\\Question.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:28:12.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\Quiz.cs",
+              "RelativeDocumentMoniker": "Quiz\\Model\\Quiz.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Model\\Quiz.cs*",
+              "RelativeToolTip": "Quiz\\Model\\Quiz.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:19:00.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\Aysun\\OneDrive\\Desktop\\QuizList\\Quiz\\Quiz\\Program.cs",
+              "RelativeToolTip": "Quiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:42:13.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Users\Aysun\OneDrive\Desktop\QuizList\Quiz\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aysun\OneDrive\Desktop\QuizList\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\QuizList\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+C:\Users\Aysun\OneDrive\Desktop\QuizList\Quiz\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Aysun\OneDrive\Desktop\QuizList\Quiz\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
